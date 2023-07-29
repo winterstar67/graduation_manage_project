@@ -1,0 +1,2 @@
+# graduation_manage_project
+JBNU_18_CS_Graduation_manage_program_project
