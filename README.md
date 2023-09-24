@@ -1,2 +1,4 @@
-# graduation_manage_project
+# Graduation_manage_project
 JBNU_18_CS_Graduation_manage_program_project
+
+전북대 컴퓨터공학부 18학번의 졸업관리 프로그램
